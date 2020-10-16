@@ -1,0 +1,9 @@
+h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 150px;
+}
+
+body {
+    text-align: center;
+    background-image: url('./pictures/cwd-car-wash-detailing-2.jpg');
+}
